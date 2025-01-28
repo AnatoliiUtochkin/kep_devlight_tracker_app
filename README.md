@@ -1,3 +1,3 @@
-# weight_tracker
+# Weight Tracker
 
-A new Flutter project.
+Flutter-проєкт для завдання, виконаного в межах виробничої практики 2025 у ТОВ "Девлайт"
